@@ -1,0 +1,1232 @@
+2	378:Evanescence	966:Nickelback	302:P!nk
+4	227:The Beatles	604:Kings of Convenience	618:Belle and Sebastian
+5	289:Britney Spears
+6	289:Britney Spears	288:Rihanna	89:Lady Gaga
+7	726:Apocalyptica
+9	475:Eminem
+10	707:Metallica	190:Muse	706:AC/DC
+11	972:t.A.T.u.
+14	159:The Cure	1412:Led Zeppelin	163:Pink Floyd
+15	72:Depeche Mode	190:Muse	163:Pink Floyd
+16	295:Beyoncé	292:Christina Aguilera	298:Lily Allen
+17	475:Eminem	377:Linkin Park
+20	333:Avril Lavigne
+21	328:David Guetta
+24	982:Foo Fighters	962:The Cardigans	183:Jamiroquai
+27	288:Rihanna	289:Britney Spears	89:Lady Gaga
+28	157:Michael Jackson	67:Madonna
+29	56:Daft Punk	65:Coldplay	71:Dido
+31	234:Nirvana	230:Green Day
+32	89:Lady Gaga	461:Miley Cyrus	466:Ke$ha
+33	851:Manic Street Preachers	72:Depeche Mode	599:David Bowie
+35	959:Queen	163:Pink Floyd	1412:Led Zeppelin
+37	190:Muse
+38	163:Pink Floyd
+39	503:In Flames	816:A Day to Remember	804:Darkest Hour
+40	9:Combichrist	930:Nightwish
+41	227:The Beatles	7:Marilyn Manson	504:HIM
+42	69:Sade
+44	159:The Cure
+45	328:David Guetta
+46	982:Foo Fighters
+47	227:The Beatles	207:Arctic Monkeys
+48	203:Blur	159:The Cure
+52	377:Linkin Park	378:Evanescence	333:Avril Lavigne
+53	917:Iron Maiden	2834:Lynyrd Skynyrd	928:Helloween
+54	982:Foo Fighters	962:The Cardigans	183:Jamiroquai
+55	72:Depeche Mode	851:Manic Street Preachers	599:David Bowie
+56	511:U2
+57	173:Placebo	203:Blur	190:Muse
+61	72:Depeche Mode	152:Porcupine Tree	159:The Cure
+62	230:Green Day
+63	533:Oasis	230:Green Day	157:Michael Jackson
+66	199:Arcade Fire	441:Joy Division	599:David Bowie
+69	533:Oasis	65:Coldplay	190:Muse
+71	190:Muse	512:Deftones	475:Eminem
+72	229:The Killers
+73	227:The Beatles	511:U2
+74	289:Britney Spears	89:Lady Gaga	67:Madonna
+76	972:t.A.T.u.
+77	67:Madonna	55:Kylie Minogue	289:Britney Spears
+81	279:Brandy	67:Madonna	907:Timbaland
+82	1109:Yann Tiersen	418:Sigur Rós
+83	1412:Led Zeppelin	173:Placebo	706:AC/DC
+84	154:Radiohead	190:Muse	53:Air
+85	614:Pearl Jam	607:Jethro Tull	632:Explosions in the Sky
+86	199:Arcade Fire	196:Beirut	225:Interpol
+87	51:Duran Duran
+88	72:Depeche Mode	1713:Dave Gahan	153:De/Vision
+91	986:Frank Sinatra
+94	246:Adriana Calcanhotto	1421:Roberto Carlos
+96	229:The Killers
+97	159:The Cure
+98	599:David Bowie	1150:Leonard Cohen
+100	1820:Donna Summer	285:Janet Jackson
+101	631:Einstürzende Neubauten	599:David Bowie
+102	333:Avril Lavigne	344:Taylor Swift	498:Paramore
+103	548:Ellie Goulding	67:Madonna	689:Florence + the Machine
+106	220:Red Hot Chili Peppers
+109	230:Green Day
+110	77:George Michael
+111	972:t.A.T.u.	67:Madonna
+113	687:All Time Low	464:3OH!3
+115	2265:Simon & Garfunkel
+116	295:Beyoncé	89:Lady Gaga	289:Britney Spears
+117	89:Lady Gaga	295:Beyoncé	349:The Pussycat Dolls
+118	687:All Time Low	461:Miley Cyrus	289:Britney Spears
+120	726:Apocalyptica
+121	407:Akira Yamaoka
+122	227:The Beatles	1416:George Harrison	562:The Who
+123	190:Muse	220:Red Hot Chili Peppers	227:The Beatles
+125	689:Florence + the Machine
+126	418:Sigur Rós	436:The Smashing Pumpkins
+128	229:The Killers
+129	251:Whitney Houston	262:Mary J. Blige	258:Tina Turner
+130	65:Coldplay	1375:Snow Patrol	154:Radiohead
+131	227:The Beatles	70:Moby	53:Air
+132	161:Enrique Iglesias
+133	56:Daft Punk
+139	227:The Beatles	511:U2	159:The Cure
+140	704:The Pretty Reckless	234:Nirvana
+141	1109:Yann Tiersen	1112:Frédéric Chopin	418:Sigur Rós
+142	1119:Faith No More	436:The Smashing Pumpkins	982:Foo Fighters
+143	67:Madonna	289:Britney Spears	89:Lady Gaga
+144	72:Depeche Mode	190:Muse
+146	641:Laura Pausini	644:Inna
+148	199:Arcade Fire	196:Beirut	225:Interpol
+151	687:All Time Low	464:3OH!3	230:Green Day
+152	159:The Cure
+155	620:Pulp
+157	679:Glee Cast	289:Britney Spears	89:Lady Gaga
+158	378:Evanescence
+159	227:The Beatles
+162	969:Kasabian	703:The xx	982:Foo Fighters
+163	292:Christina Aguilera	257:Mariah Carey	89:Lady Gaga
+164	67:Madonna	229:The Killers	300:Katy Perry
+166	599:David Bowie
+168	982:Foo Fighters	229:The Killers	227:The Beatles
+170	599:David Bowie	511:U2	227:The Beatles
+171	72:Depeche Mode
+175	288:Rihanna	89:Lady Gaga	292:Christina Aguilera
+177	72:Depeche Mode	515:Clan of Xymox
+178	511:U2
+180	88:Gorillaz	1396:Digitalism	64:Röyksopp
+182	89:Lady Gaga	461:Miley Cyrus	466:Ke$ha
+183	378:Evanescence	333:Avril Lavigne	344:Taylor Swift
+185	533:Oasis	65:Coldplay	228:Kings of Leon
+186	969:Kasabian	703:The xx	982:Foo Fighters
+187	67:Madonna	701:Shakira	972:t.A.T.u.
+188	1369:Black Sabbath	1412:Led Zeppelin	706:AC/DC
+189	403:The All-American Rejects
+190	89:Lady Gaga	295:Beyoncé	298:Lily Allen
+191	441:Joy Division	226:Queens of the Stone Age	173:Placebo
+192	517:Korn	503:In Flames	1561:Beneath the Massacre
+194	631:Einstürzende Neubauten	599:David Bowie	227:The Beatles
+195	614:Pearl Jam	152:Porcupine Tree	964:The Mars Volta
+202	599:David Bowie	511:U2	233:Nine Inch Nails
+203	1249:Guns N' Roses	176:Scorpions	234:Nirvana
+205	1048:The Kooks	289:Britney Spears	229:The Killers
+209	198:System of a Down	475:Eminem
+210	227:The Beatles
+211	67:Madonna	689:Florence + the Machine
+212	1044:Slipknot	1131:Tool	707:Metallica
+215	53:Air	64:Röyksopp	56:Daft Punk
+217	154:Radiohead	197:Tom Waits	227:The Beatles
+218	631:Einstürzende Neubauten	599:David Bowie	233:Nine Inch Nails
+219	167:Scissor Sisters	157:Michael Jackson
+220	163:Pink Floyd	65:Coldplay
+223	969:Kasabian	154:Radiohead	229:The Killers
+224	289:Britney Spears	300:Katy Perry	295:Beyoncé
+225	333:Avril Lavigne	488:Three Days Grace	493:Lostprophets
+227	641:Laura Pausini	644:Inna
+228	511:U2
+230	377:Linkin Park	331:Kanye West
+231	72:Depeche Mode	227:The Beatles	56:Daft Punk
+233	227:The Beatles	707:Metallica	163:Pink Floyd
+234	72:Depeche Mode
+235	88:Gorillaz	56:Daft Punk
+236	53:Air	59:New Order	72:Depeche Mode
+238	982:Foo Fighters
+240	198:System of a Down	225:Interpol	173:Placebo
+243	199:Arcade Fire	196:Beirut	225:Interpol
+247	548:Ellie Goulding	67:Madonna	689:Florence + the Machine
+249	455:Backstreet Boys	289:Britney Spears	89:Lady Gaga
+250	186:Blackfield
+253	228:Kings of Leon	229:The Killers	424:The Strokes
+254	704:The Pretty Reckless	706:AC/DC
+255	103:Max Richter	113:Dustin O'Halloran	126:The Notwist
+256	192:Elton John
+257	1504:Sonic Youth	599:David Bowie	441:Joy Division
+258	463:Savage Garden
+259	89:Lady Gaga	461:Miley Cyrus	466:Ke$ha
+263	288:Rihanna	289:Britney Spears	89:Lady Gaga
+264	89:Lady Gaga	461:Miley Cyrus	466:Ke$ha
+265	230:Green Day	56:Daft Punk
+266	425:Yeah Yeah Yeahs	437:She & Him
+267	377:Linkin Park	706:AC/DC
+268	227:The Beatles	67:Madonna
+269	77:George Michael
+270	207:Arctic Monkeys	227:The Beatles	190:Muse
+273	288:Rihanna	290:Jordin Sparks	89:Lady Gaga
+274	159:The Cure	77:George Michael
+277	67:Madonna
+279	498:Paramore	687:All Time Low	679:Glee Cast
+280	188:Opeth
+281	89:Lady Gaga	289:Britney Spears	470:nevershoutnever!
+283	441:Joy Division
+284	227:The Beatles	230:Green Day	190:Muse
+285	89:Lady Gaga	67:Madonna
+289	55:Kylie Minogue	67:Madonna
+291	377:Linkin Park
+292	65:Coldplay	190:Muse	229:The Killers
+293	173:Placebo	203:Blur	190:Muse
+294	333:Avril Lavigne	378:Evanescence	687:All Time Low
+295	173:Placebo	203:Blur	190:Muse
+296	227:The Beatles
+297	167:Scissor Sisters	157:Michael Jackson
+298	429:The Smiths	154:Radiohead	159:The Cure
+299	441:Joy Division
+300	420:The Kills	159:The Cure	436:The Smashing Pumpkins
+302	56:Daft Punk	227:The Beatles	757:Crystal Castles
+303	51:Duran Duran	53:Air	72:Depeche Mode
+308	328:David Guetta
+310	51:Duran Duran	67:Madonna
+312	288:Rihanna	289:Britney Spears	292:Christina Aguilera
+317	982:Foo Fighters	962:The Cardigans	190:Muse
+318	726:Apocalyptica
+322	441:Joy Division	154:Radiohead	429:The Smiths
+328	288:Rihanna	466:Ke$ha	300:Katy Perry
+329	72:Depeche Mode	154:Radiohead	159:The Cure
+332	207:Arctic Monkeys	424:The Strokes	982:Foo Fighters
+334	429:The Smiths	154:Radiohead	159:The Cure
+335	72:Depeche Mode	190:Muse	220:Red Hot Chili Peppers
+336	227:The Beatles	220:Red Hot Chili Peppers
+337	707:Metallica	918:Megadeth	957:Blind Guardian
+342	289:Britney Spears	466:Ke$ha	461:Miley Cyrus
+344	420:The Kills	159:The Cure
+347	67:Madonna	679:Glee Cast	89:Lady Gaga
+348	230:Green Day
+349	227:The Beatles
+350	278:2Pac
+351	1406:The Offspring	757:Crystal Castles	190:Muse
+353	816:A Day to Remember	488:Three Days Grace	1180:Escape The Fate
+354	726:Apocalyptica
+355	424:The Strokes	857:The Clash	207:Arctic Monkeys
+356	56:Daft Punk
+357	89:Lady Gaga	292:Christina Aguilera	67:Madonna
+359	152:Porcupine Tree	861:Killing Joke
+360	506:Anathema	65:Coldplay	511:U2
+362	289:Britney Spears	55:Kylie Minogue	67:Madonna
+363	191:OneRepublic
+364	72:Depeche Mode
+366	56:Daft Punk	88:Gorillaz
+367	51:Duran Duran	190:Muse	234:Nirvana
+368	441:Joy Division	599:David Bowie	1167:Antony and the Johnsons
+369	152:Porcupine Tree	861:Killing Joke
+370	618:Belle and Sebastian
+372	306:Black Eyed Peas	328:David Guetta	475:Eminem
+374	59:New Order	61:Talk Talk	72:Depeche Mode
+378	55:Kylie Minogue	89:Lady Gaga
+382	366:Jack Johnson	1613:Jay-Z	250:Bob Marley
+386	951:Bon Jovi
+387	154:Radiohead	159:The Cure
+391	89:Lady Gaga	289:Britney Spears	461:Miley Cyrus
+392	233:Nine Inch Nails	1098:Björk	599:David Bowie
+393	51:Duran Duran	67:Madonna
+397	227:The Beatles	614:Pearl Jam	609:Nick Drake
+398	229:The Killers	689:Florence + the Machine	289:Britney Spears
+399	463:Savage Garden
+403	641:Laura Pausini	644:Inna
+404	289:Britney Spears	455:Backstreet Boys	456:Jesse McCartney
+406	511:U2
+407	72:Depeche Mode	190:Muse
+408	70:Moby	53:Air	229:The Killers
+409	154:Radiohead
+410	498:Paramore	300:Katy Perry	461:Miley Cyrus
+411	288:Rihanna	289:Britney Spears	89:Lady Gaga
+412	230:Green Day
+413	441:Joy Division	599:David Bowie	851:Manic Street Preachers
+415	816:A Day to Remember	805:Parkway Drive	500:Bullet for My Valentine
+416	154:Radiohead	88:Gorillaz	757:Crystal Castles
+419	701:Shakira	377:Linkin Park
+420	89:Lady Gaga
+421	72:Depeche Mode	190:Muse
+424	159:The Cure
+425	227:The Beatles	1079:Billy Idol
+426	199:Arcade Fire	196:Beirut	225:Interpol
+427	455:Backstreet Boys	289:Britney Spears	55:Kylie Minogue
+430	288:Rihanna	289:Britney Spears	257:Mariah Carey
+431	55:Kylie Minogue	289:Britney Spears	534:No Doubt
+433	500:Bullet for My Valentine	464:3OH!3	455:Backstreet Boys
+438	599:David Bowie	72:Depeche Mode
+439	288:Rihanna	89:Lady Gaga	349:The Pussycat Dolls
+440	56:Daft Punk
+443	603:Aphex Twin	159:The Cure
+446	289:Britney Spears	89:Lady Gaga	300:Katy Perry
+447	64:Röyksopp	377:Linkin Park	65:Coldplay
+449	229:The Killers	190:Muse	182:Keane
+451	227:The Beatles	2632:Rufus Wainwright
+454	599:David Bowie
+455	163:Pink Floyd
+457	687:All Time Low	498:Paramore	466:Ke$ha
+459	757:Crystal Castles
+460	163:Pink Floyd
+462	875:Bauhaus
+463	344:Taylor Swift	288:Rihanna	466:Ke$ha
+465	288:Rihanna	289:Britney Spears	55:Kylie Minogue
+466	207:Arctic Monkeys	154:Radiohead	227:The Beatles
+468	155:Robbie Williams
+470	77:George Michael
+472	969:Kasabian	703:The xx	982:Foo Fighters
+473	188:Opeth
+476	172:Garbage	987:Earth, Wind & Fire
+477	868:The Doors
+480	227:The Beatles	1151:Editors	56:Daft Punk
+482	614:Pearl Jam	152:Porcupine Tree	964:The Mars Volta
+484	378:Evanescence	333:Avril Lavigne	344:Taylor Swift
+485	65:Coldplay	190:Muse	227:The Beatles
+486	641:Laura Pausini	644:Inna
+487	646:RBD	161:Enrique Iglesias	641:Laura Pausini
+489	188:Opeth
+490	288:Rihanna	295:Beyoncé	701:Shakira
+492	56:Daft Punk
+494	475:Eminem	377:Linkin Park
+497	726:Apocalyptica
+500	1943:Flying Lotus	1945:Daedelus	1627:J Dilla
+503	154:Radiohead	190:Muse	227:The Beatles
+504	152:Porcupine Tree	190:Muse
+510	229:The Killers	89:Lady Gaga	538:Maroon 5
+511	230:Green Day
+513	51:Duran Duran	53:Air	72:Depeche Mode
+515	89:Lady Gaga	310:Nelly Furtado	461:Miley Cyrus
+520	292:Christina Aguilera	295:Beyoncé	67:Madonna
+521	289:Britney Spears	295:Beyoncé	292:Christina Aguilera
+523	154:Radiohead	603:Aphex Twin
+527	207:Arctic Monkeys	227:The Beatles	88:Gorillaz
+529	614:Pearl Jam
+530	154:Radiohead	190:Muse	53:Air
+531	328:David Guetta
+533	344:Taylor Swift
+534	851:Manic Street Preachers	599:David Bowie	163:Pink Floyd
+535	77:George Michael
+536	1214:Nile
+537	56:Daft Punk
+538	641:Laura Pausini	644:Inna
+541	72:Depeche Mode	599:David Bowie	1151:Editors
+542	89:Lady Gaga	461:Miley Cyrus	288:Rihanna
+543	289:Britney Spears	55:Kylie Minogue	67:Madonna
+544	163:Pink Floyd
+545	720:Social Distortion	72:Depeche Mode
+548	500:Bullet for My Valentine	978:Disturbed	2379:Trivium
+549	56:Daft Punk
+550	289:Britney Spears	318:Hilary Duff	466:Ke$ha
+552	3807:State of Mind	5071:Chase & Status
+553	152:Porcupine Tree	172:Garbage	183:Jamiroquai
+555	230:Green Day
+557	225:Interpol
+558	89:Lady Gaga	295:Beyoncé	292:Christina Aguilera
+559	159:The Cure
+562	945:Journey	951:Bon Jovi	959:Queen
+563	203:Blur	190:Muse	88:Gorillaz
+565	972:t.A.T.u.	328:David Guetta
+567	726:Apocalyptica	707:Metallica	1104:Rammstein
+568	917:Iron Maiden	918:Megadeth	923:Children of Bodom
+571	65:Coldplay	159:The Cure	163:Pink Floyd
+572	72:Depeche Mode	51:Duran Duran	868:The Doors
+574	403:The All-American Rejects
+576	68:Icehouse	91:Nik Kershaw
+577	418:Sigur Rós
+578	455:Backstreet Boys	329:Justin Timberlake
+579	498:Paramore	504:HIM
+580	163:Pink Floyd
+581	72:Depeche Mode	191:OneRepublic	189:Poets of the Fall
+582	498:Paramore	1195:Alexisonfire
+584	289:Britney Spears	89:Lady Gaga	288:Rihanna
+585	1109:Yann Tiersen	163:Pink Floyd	212:Bob Dylan
+586	918:Megadeth	1099:The Prodigy
+589	329:Justin Timberlake
+590	1672:Avenged Sevenfold	952:Skid Row	227:The Beatles
+593	475:Eminem	377:Linkin Park
+595	233:Nine Inch Nails	72:Depeche Mode	7:Marilyn Manson
+596	227:The Beatles
+602	72:Depeche Mode	159:The Cure	163:Pink Floyd
+603	511:U2
+605	679:Glee Cast	498:Paramore	461:Miley Cyrus
+606	227:The Beatles	875:Bauhaus
+607	1257:Overkill	954:Kreator	1274:Sepultura
+608	190:Muse	511:U2	227:The Beatles
+609	72:Depeche Mode
+613	65:Coldplay	511:U2	88:Gorillaz
+614	227:The Beatles	511:U2	604:Kings of Convenience
+616	226:Queens of the Stone Age	1122:The Police
+618	72:Depeche Mode	173:Placebo	229:The Killers
+619	1216:Mastodon
+621	154:Radiohead	53:Air	173:Placebo
+622	548:Ellie Goulding	67:Madonna	689:Florence + the Machine
+625	56:Daft Punk
+627	220:Red Hot Chili Peppers
+631	72:Depeche Mode	515:Clan of Xymox
+632	377:Linkin Park	475:Eminem
+633	56:Daft Punk	67:Madonna	89:Lady Gaga
+635	959:Queen
+636	328:David Guetta
+637	687:All Time Low
+639	378:Evanescence
+640	56:Daft Punk	757:Crystal Castles	238:Massive Attack
+642	190:Muse	227:The Beatles	389:Enya
+643	366:Jack Johnson
+645	289:Britney Spears
+646	917:Iron Maiden
+647	190:Muse	65:Coldplay	425:Yeah Yeah Yeahs
+650	851:Manic Street Preachers	599:David Bowie	163:Pink Floyd
+651	233:Nine Inch Nails	227:The Beatles	599:David Bowie
+652	163:Pink Floyd
+654	1047:McFly	687:All Time Low	333:Avril Lavigne
+657	429:The Smiths	154:Radiohead	159:The Cure
+658	599:David Bowie	511:U2	233:Nine Inch Nails
+659	230:Green Day
+660	89:Lady Gaga	292:Christina Aguilera	300:Katy Perry
+661	163:Pink Floyd	2339:Teoman	4620:Cat Stevens
+662	89:Lady Gaga	288:Rihanna	289:Britney Spears
+663	72:Depeche Mode	1109:Yann Tiersen	506:Anathema
+665	378:Evanescence	333:Avril Lavigne	344:Taylor Swift
+666	65:Coldplay
+669	2062:In This Moment
+671	292:Christina Aguilera	289:Britney Spears	295:Beyoncé
+672	229:The Killers	230:Green Day
+674	486:30 Seconds to Mars	377:Linkin Park	190:Muse
+675	377:Linkin Park	407:Akira Yamaoka
+676	154:Radiohead	197:Tom Waits	227:The Beatles
+677	466:Ke$ha	461:Miley Cyrus	318:Hilary Duff
+678	289:Britney Spears	55:Kylie Minogue	67:Madonna
+679	328:David Guetta
+680	412:blink-182
+681	289:Britney Spears	318:Hilary Duff	793:Hannah Montana
+682	227:The Beatles
+683	969:Kasabian	703:The xx	982:Foo Fighters
+686	188:Opeth
+687	917:Iron Maiden	918:Megadeth	707:Metallica
+688	1044:Slipknot	1274:Sepultura
+691	416:The National	199:Arcade Fire	441:Joy Division
+692	875:Bauhaus
+693	1106:Phoenix
+694	154:Radiohead
+695	233:Nine Inch Nails
+697	378:Evanescence	72:Depeche Mode	230:Green Day
+698	982:Foo Fighters	701:Shakira	689:Florence + the Machine
+699	511:U2	959:Queen
+701	641:Laura Pausini
+702	51:Duran Duran	53:Air	72:Depeche Mode
+704	154:Radiohead
+705	72:Depeche Mode	227:The Beatles
+706	333:Avril Lavigne	498:Paramore	540:Fall Out Boy
+707	289:Britney Spears	292:Christina Aguilera	295:Beyoncé
+708	918:Megadeth	942:Iced Earth	922:Bruce Dickinson
+709	707:Metallica	517:Korn	1104:Rammstein
+710	89:Lady Gaga	67:Madonna
+712	159:The Cure	533:Oasis	3767:The Horrors
+713	641:Laura Pausini
+714	226:Queens of the Stone Age	238:Massive Attack
+715	72:Depeche Mode	173:Placebo	53:Air
+716	407:Akira Yamaoka
+717	816:A Day to Remember	805:Parkway Drive	500:Bullet for My Valentine
+719	1109:Yann Tiersen	418:Sigur Rós
+720	154:Radiohead	197:Tom Waits	205:Andrew Bird
+721	72:Depeche Mode	851:Manic Street Preachers	599:David Bowie
+722	161:Enrique Iglesias
+723	497:Papa Roach	173:Placebo	1873:Audioslave
+725	1109:Yann Tiersen	227:The Beatles	212:Bob Dylan
+726	289:Britney Spears	523:Lindsay Lohan	333:Avril Lavigne
+727	173:Placebo	227:The Beatles	1513:Ramones
+728	157:Michael Jackson
+729	288:Rihanna	289:Britney Spears	291:Kelly Clarkson
+730	418:Sigur Rós	632:Explosions in the Sky
+731	229:The Killers
+736	71:Dido	88:Gorillaz	378:Evanescence
+737	72:Depeche Mode	159:The Cure	77:George Michael
+739	289:Britney Spears	89:Lady Gaga	292:Christina Aguilera
+742	229:The Killers
+743	288:Rihanna	289:Britney Spears	291:Kelly Clarkson
+744	154:Radiohead	190:Muse	429:The Smiths
+746	173:Placebo	228:Kings of Leon
+747	344:Taylor Swift	288:Rihanna	230:Green Day
+749	190:Muse	154:Radiohead
+750	982:Foo Fighters	701:Shakira	689:Florence + the Machine
+751	289:Britney Spears	523:Lindsay Lohan	67:Madonna
+752	679:Glee Cast	461:Miley Cyrus	344:Taylor Swift
+753	77:George Michael
+754	89:Lady Gaga	190:Muse	230:Green Day
+758	455:Backstreet Boys	289:Britney Spears	89:Lady Gaga
+760	289:Britney Spears	56:Daft Punk	67:Madonna
+761	230:Green Day
+762	289:Britney Spears	701:Shakira	1556:Joss Stone
+764	152:Porcupine Tree	188:Opeth	183:Jamiroquai
+765	72:Depeche Mode	880:Nitzer Ebb	159:The Cure
+768	328:David Guetta	329:Justin Timberlake	89:Lady Gaga
+769	324:Cobra Starship
+770	154:Radiohead	190:Muse	53:Air
+771	89:Lady Gaga	300:Katy Perry	289:Britney Spears
+776	163:Pink Floyd	59:New Order	1151:Editors
+777	966:Nickelback	328:David Guetta
+778	930:Nightwish	378:Evanescence	518:Within Temptation
+780	346:Lena
+781	641:Laura Pausini	644:Inna
+782	210:Bloc Party
+784	72:Depeche Mode	190:Muse	163:Pink Floyd
+785	289:Britney Spears
+786	966:Nickelback
+787	302:P!nk	292:Christina Aguilera	288:Rihanna
+788	511:U2
+789	533:Oasis	378:Evanescence
+791	779:Bring Me The Horizon
+792	289:Britney Spears	455:Backstreet Boys	456:Jesse McCartney
+794	55:Kylie Minogue	289:Britney Spears	534:No Doubt
+801	89:Lady Gaga
+802	227:The Beatles	182:Keane	211:The Decemberists
+804	72:Depeche Mode	55:Kylie Minogue	56:Daft Punk
+806	288:Rihanna	289:Britney Spears	291:Kelly Clarkson
+807	288:Rihanna	333:Avril Lavigne	466:Ke$ha
+808	190:Muse	227:The Beatles
+810	173:Placebo	533:Oasis
+812	227:The Beatles	190:Muse	215:Jeff Buckley
+813	89:Lady Gaga	498:Paramore	461:Miley Cyrus
+814	952:Skid Row	918:Megadeth	1810:Def Leppard
+815	816:A Day to Remember	805:Parkway Drive	500:Bullet for My Valentine
+817	167:Scissor Sisters	157:Michael Jackson
+818	423:Bat for Lashes
+819	371:Skillet
+820	13928:Enoch Light	1826:Isaac Hayes	13913:Les Baxter
+821	89:Lady Gaga	498:Paramore	461:Miley Cyrus
+822	230:Green Day
+823	233:Nine Inch Nails
+824	923:Children of Bodom	1249:Guns N' Roses
+825	72:Depeche Mode	717:Electric Light Orchestra	163:Pink Floyd
+826	227:The Beatles	215:Jeff Buckley	234:Nirvana
+827	173:Placebo
+828	504:HIM
+829	72:Depeche Mode	77:George Michael
+830	72:Depeche Mode	227:The Beatles	56:Daft Punk
+831	548:Ellie Goulding	328:David Guetta
+832	515:Clan of Xymox
+836	544:Adam Lambert	479:Westlife	3321:Brooke White
+837	227:The Beatles
+838	228:Kings of Leon
+839	72:Depeche Mode	511:U2	227:The Beatles
+840	229:The Killers	225:Interpol	425:Yeah Yeah Yeahs
+842	1409:Calvin Harris
+843	89:Lady Gaga	229:The Killers
+844	288:Rihanna	289:Britney Spears	291:Kelly Clarkson
+846	227:The Beatles	511:U2
+847	67:Madonna	980:Yelle
+848	227:The Beatles	212:Bob Dylan
+849	51:Duran Duran	614:Pearl Jam	183:Jamiroquai
+850	152:Porcupine Tree	159:The Cure	163:Pink Floyd
+851	371:Skillet	1180:Escape The Fate	489:Limp Bizkit
+853	190:Muse
+854	1672:Avenged Sevenfold	498:Paramore	1180:Escape The Fate
+855	72:Depeche Mode	55:Kylie Minogue	56:Daft Punk
+856	89:Lady Gaga	461:Miley Cyrus	466:Ke$ha
+858	227:The Beatles	959:Queen
+859	854:Alice in Chains	857:The Clash	159:The Cure
+862	72:Depeche Mode	1104:Rammstein	227:The Beatles
+863	288:Rihanna	289:Britney Spears	291:Kelly Clarkson
+868	67:Madonna
+869	1358:Judas Priest	1359:Tarot
+870	72:Depeche Mode	515:Clan of Xymox
+871	229:The Killers	89:Lady Gaga
+874	56:Daft Punk	614:Pearl Jam
+875	152:Porcupine Tree	172:Garbage	183:Jamiroquai
+877	707:Metallica	475:Eminem	710:Black Label Society
+878	230:Green Day
+881	229:The Killers
+886	51:Duran Duran	53:Air	64:Röyksopp
+887	173:Placebo	154:Radiohead	1090:Franz Ferdinand
+889	157:Michael Jackson
+890	209:My Chemical Romance
+893	288:Rihanna	289:Britney Spears	89:Lady Gaga
+895	978:Disturbed
+897	154:Radiohead	197:Tom Waits	227:The Beatles
+899	544:Adam Lambert	288:Rihanna	461:Miley Cyrus
+900	227:The Beatles
+903	220:Red Hot Chili Peppers	227:The Beatles	230:Green Day
+904	403:The All-American Rejects
+905	227:The Beatles	1151:Editors	56:Daft Punk
+906	972:t.A.T.u.
+908	152:Porcupine Tree
+909	227:The Beatles	220:Red Hot Chili Peppers
+910	72:Depeche Mode	1983:The Knife	1243:Mika
+911	190:Muse
+913	69:Sade
+914	511:U2	227:The Beatles
+915	229:The Killers	154:Radiohead	225:Interpol
+916	77:George Michael
+917	503:In Flames
+921	227:The Beatles	190:Muse
+924	289:Britney Spears	292:Christina Aguilera	89:Lady Gaga
+926	72:Depeche Mode	2:Diary of Dreams
+927	951:Bon Jovi
+928	1109:Yann Tiersen	1770:Erik Satie
+929	230:Green Day
+931	533:Oasis	227:The Beatles	65:Coldplay
+932	292:Christina Aguilera	55:Kylie Minogue	295:Beyoncé
+933	289:Britney Spears	300:Katy Perry	89:Lady Gaga
+934	289:Britney Spears	534:No Doubt
+935	159:The Cure	227:The Beatles
+936	154:Radiohead	227:The Beatles
+938	51:Duran Duran	54:Hooverphonic	72:Depeche Mode
+939	288:Rihanna	289:Britney Spears	67:Madonna
+940	173:Placebo
+941	190:Muse	227:The Beatles	88:Gorillaz
+943	72:Depeche Mode	191:OneRepublic	189:Poets of the Fall
+948	227:The Beatles	603:Aphex Twin
+949	813:As I Lay Dying
+951	72:Depeche Mode	229:The Killers	70:Moby
+957	182:Keane
+961	854:Alice in Chains	163:Pink Floyd	707:Metallica
+962	154:Radiohead	196:Beirut	200:Gogol Bordello
+963	328:David Guetta
+966	198:System of a Down	209:My Chemical Romance	230:Green Day
+967	704:The Pretty Reckless	234:Nirvana
+968	72:Depeche Mode	152:Porcupine Tree	159:The Cure
+969	707:Metallica
+972	423:Bat for Lashes
+975	89:Lady Gaga	346:Lena
+976	403:The All-American Rejects
+978	614:Pearl Jam
+981	89:Lady Gaga	344:Taylor Swift	498:Paramore
+982	461:Miley Cyrus	466:Ke$ha	292:Christina Aguilera
+986	89:Lady Gaga	461:Miley Cyrus	466:Ke$ha
+987	56:Daft Punk	227:The Beatles	757:Crystal Castles
+989	289:Britney Spears	295:Beyoncé	292:Christina Aguilera
+990	1116:Incubus	1119:Faith No More
+994	420:The Kills	159:The Cure	436:The Smashing Pumpkins
+995	917:Iron Maiden
+996	163:Pink Floyd	227:The Beatles	1425:David Gilmour
+999	348:Wir sind Helden
+1001	1122:The Police	538:Maroon 5	227:The Beatles
+1002	726:Apocalyptica
+1004	1504:Sonic Youth	599:David Bowie	441:Joy Division
+1005	511:U2	227:The Beatles	203:Blur
+1007	167:Scissor Sisters
+1008	72:Depeche Mode
+1009	423:Bat for Lashes
+1010	851:Manic Street Preachers	599:David Bowie	163:Pink Floyd
+1014	966:Nickelback	51:Duran Duran	982:Foo Fighters
+1015	199:Arcade Fire	225:Interpol	229:The Killers
+1016	875:Bauhaus
+1018	1109:Yann Tiersen	614:Pearl Jam	1119:Faith No More
+1019	288:Rihanna	89:Lady Gaga	291:Kelly Clarkson
+1020	511:U2
+1022	511:U2
+1025	159:The Cure
+1026	71:Dido
+1028	289:Britney Spears	295:Beyoncé	292:Christina Aguilera
+1029	962:The Cardigans	152:Porcupine Tree	861:Killing Joke
+1032	72:Depeche Mode	875:Bauhaus	159:The Cure
+1034	154:Radiohead
+1035	757:Crystal Castles	190:Muse	173:Placebo
+1036	1044:Slipknot	1274:Sepultura
+1037	2442:Garth Brooks	2463:Boston	227:The Beatles
+1038	707:Metallica	7:Marilyn Manson
+1042	72:Depeche Mode	227:The Beatles	56:Daft Punk
+1046	56:Daft Punk	328:David Guetta	230:Green Day
+1047	230:Green Day
+1050	152:Porcupine Tree	188:Opeth	183:Jamiroquai
+1051	227:The Beatles	199:Arcade Fire	2424:The New Pornographers
+1053	152:Porcupine Tree	172:Garbage	183:Jamiroquai
+1054	229:The Killers
+1055	289:Britney Spears	288:Rihanna	89:Lady Gaga
+1058	1513:Ramones	228:Kings of Leon
+1060	233:Nine Inch Nails	1098:Björk	599:David Bowie
+1061	726:Apocalyptica
+1062	65:Coldplay	71:Dido	72:Depeche Mode
+1064	152:Porcupine Tree	172:Garbage	183:Jamiroquai
+1067	768:Enter Shikari
+1068	289:Britney Spears
+1069	378:Evanescence	72:Depeche Mode	230:Green Day
+1070	154:Radiohead	159:The Cure
+1071	1189:Secondhand Serenade	1186:Sum 41
+1072	72:Depeche Mode	227:The Beatles	56:Daft Punk
+1073	875:Bauhaus	599:David Bowie	1098:Björk
+1074	378:Evanescence	333:Avril Lavigne	344:Taylor Swift
+1075	230:Green Day
+1076	455:Backstreet Boys
+1078	511:U2	220:Red Hot Chili Peppers
+1079	603:Aphex Twin	159:The Cure
+1080	72:Depeche Mode	88:Gorillaz
+1081	464:3OH!3	481:Simple Plan	230:Green Day
+1082	289:Britney Spears	295:Beyoncé	292:Christina Aguilera
+1085	1109:Yann Tiersen
+1087	190:Muse	230:Green Day
+1091	154:Radiohead	190:Muse	53:Air
+1093	418:Sigur Rós	1098:Björk
+1100	429:The Smiths	203:Blur	2531:Morrissey
+1101	220:Red Hot Chili Peppers
+1102	207:Arctic Monkeys	228:Kings of Leon	227:The Beatles
+1103	89:Lady Gaga	289:Britney Spears	461:Miley Cyrus
+1104	511:U2	227:The Beatles	190:Muse
+1106	227:The Beatles
+1107	229:The Killers	230:Green Day
+1110	56:Daft Punk	1098:Björk
+1111	378:Evanescence	288:Rihanna	466:Ke$ha
+1113	230:Green Day	229:The Killers
+1115	998:Orchestral Manoeuvres in the Dark	1001:Pet Shop Boys	1073:Kraftwerk
+1116	89:Lady Gaga
+1118	69:Sade
+1119	706:AC/DC
+1120	227:The Beatles
+1121	89:Lady Gaga	300:Katy Perry	302:P!nk
+1126	56:Daft Punk	89:Lady Gaga	229:The Killers
+1128	72:Depeche Mode	227:The Beatles	875:Bauhaus
+1131	230:Green Day
+1132	72:Depeche Mode	190:Muse	220:Red Hot Chili Peppers
+1133	67:Madonna	644:Inna
+1134	55:Kylie Minogue	67:Madonna	71:Dido
+1135	190:Muse	56:Daft Punk	377:Linkin Park
+1137	190:Muse
+1138	190:Muse	65:Coldplay	229:The Killers
+1139	190:Muse	72:Depeche Mode	1104:Rammstein
+1143	190:Muse	1122:The Police	389:Enya
+1144	868:The Doors	511:U2	1639:Jimi Hendrix
+1146	227:The Beatles
+1147	55:Kylie Minogue	289:Britney Spears	534:No Doubt
+1149	154:Radiohead	190:Muse	65:Coldplay
+1150	72:Depeche Mode
+1151	190:Muse	154:Radiohead	182:Keane
+1152	436:The Smashing Pumpkins
+1153	157:Michael Jackson
+1154	220:Red Hot Chili Peppers
+1156	1066:Ayria
+1157	234:Nirvana	377:Linkin Park
+1158	464:3OH!3
+1159	289:Britney Spears	461:Miley Cyrus	498:Paramore
+1160	89:Lady Gaga	497:Papa Roach	486:30 Seconds to Mars
+1161	227:The Beatles	70:Moby	53:Air
+1163	1112:Frédéric Chopin	233:Nine Inch Nails
+1166	851:Manic Street Preachers	599:David Bowie	163:Pink Floyd
+1167	203:Blur	190:Muse	154:Radiohead
+1170	72:Depeche Mode	511:U2
+1171	161:Enrique Iglesias
+1172	295:Beyoncé	89:Lady Gaga	344:Taylor Swift
+1173	504:HIM	512:Deftones
+1176	67:Madonna
+1177	1249:Guns N' Roses	89:Lady Gaga	504:HIM
+1179	199:Arcade Fire	225:Interpol	196:Beirut
+1180	154:Radiohead	271:Mos Def
+1181	56:Daft Punk	88:Gorillaz
+1183	868:The Doors	1412:Led Zeppelin	163:Pink Floyd
+1185	288:Rihanna	89:Lady Gaga	461:Miley Cyrus
+1188	161:Enrique Iglesias
+1189	159:The Cure
+1190	163:Pink Floyd
+1191	701:Shakira	328:David Guetta
+1193	154:Radiohead	190:Muse	207:Arctic Monkeys
+1194	599:David Bowie	511:U2	227:The Beatles
+1195	234:Nirvana
+1198	192:Elton John	511:U2
+1202	157:Michael Jackson	285:Janet Jackson
+1204	207:Arctic Monkeys	228:Kings of Leon	1513:Ramones
+1206	154:Radiohead	197:Tom Waits	205:Andrew Bird
+1207	289:Britney Spears	679:Glee Cast	306:Black Eyed Peas
+1209	533:Oasis	65:Coldplay	706:AC/DC
+1210	378:Evanescence	333:Avril Lavigne	344:Taylor Swift
+1211	227:The Beatles	99:INXS
+1213	59:New Order
+1216	389:Enya	378:Evanescence
+1217	154:Radiohead	298:Lily Allen	65:Coldplay
+1219	233:Nine Inch Nails	226:Queens of the Stone Age	238:Massive Attack
+1222	51:Duran Duran	53:Air	72:Depeche Mode
+1223	67:Madonna	55:Kylie Minogue	89:Lady Gaga
+1224	724:Ozzy Osbourne	706:AC/DC	707:Metallica
+1228	228:Kings of Leon
+1229	228:Kings of Leon	154:Radiohead	65:Coldplay
+1230	632:Explosions in the Sky
+1232	190:Muse	229:The Killers	204:Damien Rice
+1233	234:Nirvana	378:Evanescence
+1234	199:Arcade Fire	227:The Beatles	851:Manic Street Preachers
+1238	188:Opeth	173:Placebo
+1239	603:Aphex Twin
+1240	1098:Björk
+1243	377:Linkin Park	378:Evanescence	407:Akira Yamaoka
+1246	1048:The Kooks	228:Kings of Leon	229:The Killers
+1248	288:Rihanna
+1249	155:Robbie Williams
+1253	227:The Beatles	56:Daft Punk	159:The Cure
+1254	511:U2
+1255	854:Alice in Chains	857:The Clash	159:The Cure
+1256	69:Sade
+1259	1249:Guns N' Roses	1412:Led Zeppelin	868:The Doors
+1261	173:Placebo
+1263	504:HIM	710:Black Label Society	517:Korn
+1264	2380:Godsmack
+1265	982:Foo Fighters	229:The Killers	227:The Beatles
+1270	72:Depeche Mode	56:Daft Punk
+1272	386:Cascada
+1273	67:Madonna	689:Florence + the Machine
+1274	344:Taylor Swift	288:Rihanna	466:Ke$ha
+1275	182:Keane
+1276	377:Linkin Park	227:The Beatles	234:Nirvana
+1277	344:Taylor Swift	288:Rihanna	300:Katy Perry
+1280	227:The Beatles
+1281	186:Blackfield
+1284	72:Depeche Mode	154:Radiohead	159:The Cure
+1290	622:Sufjan Stevens
+1292	701:Shakira	67:Madonna	644:Inna
+1295	779:Bring Me The Horizon
+1296	707:Metallica	1104:Rammstein	1358:Judas Priest
+1300	72:Depeche Mode	377:Linkin Park	227:The Beatles
+1303	959:Queen
+1308	726:Apocalyptica	707:Metallica	190:Muse
+1310	972:t.A.T.u.	67:Madonna
+1311	173:Placebo	163:Pink Floyd	154:Radiohead
+1312	154:Radiohead	190:Muse	207:Arctic Monkeys
+1313	233:Nine Inch Nails
+1318	720:Social Distortion	72:Depeche Mode
+1321	966:Nickelback	328:David Guetta
+1323	234:Nirvana
+1324	72:Depeche Mode	511:U2	707:Metallica
+1325	233:Nine Inch Nails	1118:A Perfect Circle	1114:Tarja
+1327	851:Manic Street Preachers	599:David Bowie	163:Pink Floyd
+1330	227:The Beatles	233:Nine Inch Nails
+1331	511:U2	707:Metallica	718:Johnny Cash
+1332	641:Laura Pausini	644:Inna
+1333	289:Britney Spears	461:Miley Cyrus	318:Hilary Duff
+1335	599:David Bowie	227:The Beatles	875:Bauhaus
+1337	854:Alice in Chains	923:Children of Bodom
+1339	72:Depeche Mode
+1340	599:David Bowie	511:U2	227:The Beatles
+1343	288:Rihanna	89:Lady Gaga	293:Ashlee Simpson
+1345	154:Radiohead	159:The Cure	622:Sufjan Stevens
+1347	868:The Doors	220:Red Hot Chili Peppers	728:Eric Clapton
+1348	198:System of a Down	230:Green Day
+1349	56:Daft Punk
+1351	533:Oasis	154:Radiohead	65:Coldplay
+1352	227:The Beatles	854:Alice in Chains	163:Pink Floyd
+1354	418:Sigur Rós
+1356	463:Savage Garden
+1357	1119:Faith No More	159:The Cure
+1358	207:Arctic Monkeys	234:Nirvana
+1360	65:Coldplay	190:Muse	229:The Killers
+1362	289:Britney Spears	89:Lady Gaga	300:Katy Perry
+1363	288:Rihanna	289:Britney Spears	89:Lady Gaga
+1364	154:Radiohead	197:Tom Waits	205:Andrew Bird
+1366	190:Muse
+1367	289:Britney Spears	461:Miley Cyrus	288:Rihanna
+1369	227:The Beatles	1104:Rammstein	959:Queen
+1371	757:Crystal Castles	504:HIM
+1373	679:Glee Cast	687:All Time Low	466:Ke$ha
+1374	548:Ellie Goulding	67:Madonna	689:Florence + the Machine
+1376	288:Rihanna	67:Madonna	55:Kylie Minogue
+1377	464:3OH!3
+1378	190:Muse
+1379	228:Kings of Leon	959:Queen
+1381	154:Radiohead	190:Muse	53:Air
+1382	190:Muse	182:Keane	511:U2
+1383	441:Joy Division
+1384	333:Avril Lavigne	288:Rihanna	300:Katy Perry
+1385	1104:Rammstein	227:The Beatles	198:System of a Down
+1386	498:Paramore
+1387	289:Britney Spears	55:Kylie Minogue	67:Madonna
+1388	72:Depeche Mode	868:The Doors	220:Red Hot Chili Peppers
+1389	289:Britney Spears	296:Sugababes	295:Beyoncé
+1393	497:Papa Roach	512:Deftones	517:Korn
+1395	67:Madonna
+1396	599:David Bowie	511:U2	622:Sufjan Stevens
+1398	1556:Joss Stone	289:Britney Spears	295:Beyoncé
+1399	463:Savage Garden
+1401	72:Depeche Mode	227:The Beatles	56:Daft Punk
+1402	959:Queen
+1405	229:The Killers	689:Florence + the Machine	300:Katy Perry
+1406	65:Coldplay	182:Keane	176:Scorpions
+1408	288:Rihanna	89:Lady Gaga	466:Ke$ha
+1411	288:Rihanna	289:Britney Spears	89:Lady Gaga
+1413	1047:McFly	1188:Asking Alexandria	816:A Day to Remember
+1416	230:Green Day	56:Daft Punk
+1419	1048:The Kooks	228:Kings of Leon	230:Green Day
+1420	461:Miley Cyrus	289:Britney Spears	89:Lady Gaga
+1421	190:Muse	65:Coldplay	154:Radiohead
+1423	972:t.A.T.u.
+1426	437:She & Him
+1427	841:Slayer
+1428	503:In Flames	514:Ill Niño
+1429	614:Pearl Jam	152:Porcupine Tree	964:The Mars Volta
+1430	288:Rihanna	289:Britney Spears	89:Lady Gaga
+1433	227:The Beatles	238:Massive Attack
+1434	227:The Beatles
+1435	1131:Tool	707:Metallica	190:Muse
+1438	614:Pearl Jam	964:The Mars Volta	917:Iron Maiden
+1440	230:Green Day	56:Daft Punk
+1441	288:Rihanna	289:Britney Spears	291:Kelly Clarkson
+1442	234:Nirvana
+1444	288:Rihanna	289:Britney Spears	89:Lady Gaga
+1445	271:Mos Def	266:Erykah Badu
+1447	64:Röyksopp	154:Radiohead	377:Linkin Park
+1449	599:David Bowie
+1451	497:Papa Roach	537:The Used
+1452	180:Roxette	157:Michael Jackson	176:Scorpions
+1454	475:Eminem
+1455	227:The Beatles	959:Queen
+1456	289:Britney Spears	686:Selena Gomez & the Scene	466:Ke$ha
+1457	157:Michael Jackson
+1459	448:Art Brut
+1462	614:Pearl Jam
+1463	190:Muse	220:Red Hot Chili Peppers	227:The Beatles
+1464	511:U2
+1465	152:Porcupine Tree	172:Garbage	183:Jamiroquai
+1466	161:Enrique Iglesias
+1467	229:The Killers	190:Muse	182:Keane
+1472	757:Crystal Castles
+1473	599:David Bowie	1150:Leonard Cohen
+1474	65:Coldplay	227:The Beatles
+1475	72:Depeche Mode	182:Keane	154:Radiohead
+1477	744:Autechre	2671:Kettel	2667:The Flashbulb
+1478	65:Coldplay
+1479	377:Linkin Park	493:Lostprophets	72:Depeche Mode
+1480	55:Kylie Minogue	67:Madonna
+1481	344:Taylor Swift	288:Rihanna	466:Ke$ha
+1484	1119:Faith No More
+1486	1214:Nile
+1489	53:Air
+1490	190:Muse	707:Metallica
+1491	154:Radiohead
+1493	917:Iron Maiden	1339:Sonata Arctica	936:Kamelot
+1494	603:Aphex Twin
+1495	416:The National
+1496	67:Madonna	300:Katy Perry	689:Florence + the Machine
+1497	614:Pearl Jam
+1498	190:Muse	226:Queens of the Stone Age	233:Nine Inch Nails
+1500	227:The Beatles	220:Red Hot Chili Peppers	959:Queen
+1502	533:Oasis	65:Coldplay	228:Kings of Leon
+1503	1244:Elvis Presley
+1504	72:Depeche Mode	227:The Beatles	238:Massive Attack
+1505	89:Lady Gaga	889:Cyndi Lauper	300:Katy Perry
+1508	701:Shakira	328:David Guetta
+1513	227:The Beatles
+1514	709:The White Stripes
+1516	72:Depeche Mode	238:Massive Attack	1072:Martin L. Gore
+1517	154:Radiohead	190:Muse	207:Arctic Monkeys
+1520	288:Rihanna	289:Britney Spears	291:Kelly Clarkson
+1521	152:Porcupine Tree	172:Garbage	183:Jamiroquai
+1527	289:Britney Spears	300:Katy Perry	295:Beyoncé
+1528	963:Yanni	969:Kasabian
+1530	201:Ленинград
+1531	227:The Beatles	163:Pink Floyd	1412:Led Zeppelin
+1533	227:The Beatles	190:Muse	230:Green Day
+1535	161:Enrique Iglesias
+1536	191:OneRepublic	189:Poets of the Fall
+1537	51:Duran Duran
+1538	972:t.A.T.u.	67:Madonna
+1539	504:HIM	512:Deftones
+1540	641:Laura Pausini	644:Inna
+1541	344:Taylor Swift	498:Paramore	288:Rihanna
+1542	455:Backstreet Boys	289:Britney Spears	89:Lady Gaga
+1543	1119:Faith No More	234:Nirvana
+1545	475:Eminem
+1552	498:Paramore	325:Ashley Tisdale	289:Britney Spears
+1553	418:Sigur Rós
+1554	67:Madonna	689:Florence + the Machine
+1556	423:Bat for Lashes
+1557	203:Blur	1089:Suede	429:The Smiths
+1560	56:Daft Punk	65:Coldplay	71:Dido
+1563	51:Duran Duran
+1564	72:Depeche Mode	190:Muse
+1565	152:Porcupine Tree	172:Garbage	183:Jamiroquai
+1566	288:Rihanna	289:Britney Spears	291:Kelly Clarkson
+1567	72:Depeche Mode	163:Pink Floyd	174:Infected Mushroom
+1568	72:Depeche Mode	1001:Pet Shop Boys	1073:Kraftwerk
+1570	227:The Beatles	706:AC/DC	707:Metallica
+1574	966:Nickelback
+1576	333:Avril Lavigne	704:The Pretty Reckless	89:Lady Gaga
+1579	157:Michael Jackson
+1581	959:Queen
+1582	378:Evanescence	333:Avril Lavigne	344:Taylor Swift
+1586	289:Britney Spears	288:Rihanna	67:Madonna
+1587	331:Kanye West
+1594	2026:The Residents	1890:Sparks	2030:Coil
+1599	805:Parkway Drive	489:Limp Bizkit	464:3OH!3
+1605	227:The Beatles	1079:Billy Idol
+1606	154:Radiohead	159:The Cure
+1607	72:Depeche Mode	227:The Beatles	56:Daft Punk
+1608	227:The Beatles
+1611	51:Duran Duran	1001:Pet Shop Boys	1014:Erasure
+1613	548:Ellie Goulding	67:Madonna	689:Florence + the Machine
+1614	51:Duran Duran	67:Madonna
+1616	227:The Beatles
+1617	72:Depeche Mode	190:Muse	163:Pink Floyd
+1618	72:Depeche Mode	599:David Bowie	159:The Cure
+1619	966:Nickelback	302:P!nk	288:Rihanna
+1622	631:Einstürzende Neubauten	227:The Beatles	233:Nine Inch Nails
+1623	511:U2
+1624	190:Muse	53:Air	173:Placebo
+1625	498:Paramore	292:Christina Aguilera	679:Glee Cast
+1627	238:Massive Attack
+1630	418:Sigur Rós
+1635	89:Lady Gaga	498:Paramore	461:Miley Cyrus
+1636	161:Enrique Iglesias
+1637	72:Depeche Mode	163:Pink Floyd	174:Infected Mushroom
+1638	2624:Frank Zappa	163:Pink Floyd	188:Opeth
+1640	173:Placebo
+1643	65:Coldplay	163:Pink Floyd	604:Kings of Convenience
+1644	511:U2	1122:The Police	538:Maroon 5
+1646	868:The Doors	1412:Led Zeppelin	163:Pink Floyd
+1648	266:Erykah Badu
+1649	88:Gorillaz
+1650	190:Muse	230:Green Day	228:Kings of Leon
+1652	72:Depeche Mode	55:Kylie Minogue	56:Daft Punk
+1653	1672:Avenged Sevenfold
+1654	851:Manic Street Preachers	72:Depeche Mode	599:David Bowie
+1655	227:The Beatles	511:U2
+1657	199:Arcade Fire	225:Interpol	196:Beirut
+1658	288:Rihanna
+1659	163:Pink Floyd	1397:Fatboy Slim	190:Muse
+1661	233:Nine Inch Nails	72:Depeche Mode	707:Metallica
+1662	289:Britney Spears	295:Beyoncé	89:Lady Gaga
+1663	161:Enrique Iglesias
+1665	726:Apocalyptica	706:AC/DC	378:Evanescence
+1666	227:The Beatles	486:30 Seconds to Mars
+1667	64:Röyksopp	53:Air	190:Muse
+1669	190:Muse	229:The Killers	182:Keane
+1671	227:The Beatles	1151:Editors	56:Daft Punk
+1672	65:Coldplay
+1674	707:Metallica	706:AC/DC
+1675	288:Rihanna	289:Britney Spears	466:Ke$ha
+1677	289:Britney Spears	295:Beyoncé	89:Lady Gaga
+1679	1066:Ayria
+1680	229:The Killers	154:Radiohead	225:Interpol
+1686	72:Depeche Mode	55:Kylie Minogue	56:Daft Punk
+1688	266:Erykah Badu
+1689	416:The National	199:Arcade Fire	441:Joy Division
+1691	227:The Beatles	159:The Cure	959:Queen
+1693	475:Eminem
+1694	89:Lady Gaga	344:Taylor Swift	498:Paramore
+1695	923:Children of Bodom	1249:Guns N' Roses	517:Korn
+1697	599:David Bowie	233:Nine Inch Nails	875:Bauhaus
+1701	154:Radiohead	229:The Killers
+1702	424:The Strokes	88:Gorillaz	2139:Beach House
+1704	67:Madonna
+1705	56:Daft Punk
+1707	72:Depeche Mode	159:The Cure	77:George Michael
+1708	951:Bon Jovi
+1709	173:Placebo	1104:Rammstein
+1710	233:Nine Inch Nails	152:Porcupine Tree
+1711	199:Arcade Fire	196:Beirut	225:Interpol
+1715	72:Depeche Mode	59:New Order	227:The Beatles
+1719	1969:Prefuse 73	603:Aphex Twin
+1720	227:The Beatles
+1721	227:The Beatles	1244:Elvis Presley	9287:Ricky Nelson
+1722	1412:Led Zeppelin	163:Pink Floyd
+1723	1099:The Prodigy	88:Gorillaz	207:Arctic Monkeys
+1725	63:Enigma	80:Groove Armada
+1727	511:U2
+1729	533:Oasis	227:The Beatles	65:Coldplay
+1732	199:Arcade Fire	196:Beirut	225:Interpol
+1737	72:Depeche Mode	152:Porcupine Tree	159:The Cure
+1740	227:The Beatles	190:Muse	215:Jeff Buckley
+1741	51:Duran Duran	53:Air	72:Depeche Mode
+1742	154:Radiohead	159:The Cure
+1743	378:Evanescence	333:Avril Lavigne	344:Taylor Swift
+1744	72:Depeche Mode	154:Radiohead	159:The Cure
+1745	72:Depeche Mode	173:Placebo
+1746	300:Katy Perry	89:Lady Gaga	288:Rihanna
+1747	163:Pink Floyd
+1748	190:Muse	707:Metallica	517:Korn
+1749	289:Britney Spears
+1751	225:Interpol
+1752	614:Pearl Jam	152:Porcupine Tree	964:The Mars Volta
+1754	227:The Beatles	1112:Frédéric Chopin
+1760	229:The Killers
+1762	56:Daft Punk	65:Coldplay	59:New Order
+1768	429:The Smiths	199:Arcade Fire	228:Kings of Leon
+1769	89:Lady Gaga
+1775	851:Manic Street Preachers	599:David Bowie	163:Pink Floyd
+1776	72:Depeche Mode	227:The Beatles	875:Bauhaus
+1777	182:Keane	65:Coldplay	154:Radiohead
+1778	55:Kylie Minogue	89:Lady Gaga	67:Madonna
+1782	841:Slayer
+1785	56:Daft Punk	67:Madonna
+1786	159:The Cure
+1788	641:Laura Pausini	644:Inna
+1789	69:Sade
+1790	599:David Bowie	1150:Leonard Cohen
+1791	51:Duran Duran
+1792	72:Depeche Mode	159:The Cure	77:George Michael
+1794	182:Keane	190:Muse	154:Radiohead
+1796	802:Anahí	288:Rihanna	289:Britney Spears
+1797	511:U2
+1798	67:Madonna	679:Glee Cast	89:Lady Gaga
+1800	289:Britney Spears	296:Sugababes	292:Christina Aguilera
+1802	72:Depeche Mode	511:U2	707:Metallica
+1803	89:Lady Gaga	466:Ke$ha	288:Rihanna
+1804	854:Alice in Chains	163:Pink Floyd	707:Metallica
+1806	55:Kylie Minogue	67:Madonna
+1808	2442:Garth Brooks	511:U2	2051:Josh Groban
+1809	463:Savage Garden	67:Madonna
+1810	377:Linkin Park
+1815	289:Britney Spears	89:Lady Gaga
+1817	89:Lady Gaga	461:Miley Cyrus	466:Ke$ha
+1820	154:Radiohead	190:Muse	53:Air
+1821	1114:Tarja
+1822	227:The Beatles	159:The Cure	163:Pink Floyd
+1825	289:Britney Spears	67:Madonna	55:Kylie Minogue
+1827	1104:Rammstein	2369:Type O Negative
+1828	533:Oasis
+1830	55:Kylie Minogue	89:Lady Gaga	67:Madonna
+1832	548:Ellie Goulding	67:Madonna	703:The xx
+1833	173:Placebo	159:The Cure
+1835	701:Shakira	972:t.A.T.u.
+1836	378:Evanescence
+1839	511:U2
+1840	89:Lady Gaga
+1841	377:Linkin Park	1859:Thousand Foot Krutch	1406:The Offspring
+1844	841:Slayer	707:Metallica	706:AC/DC
+1845	154:Radiohead
+1846	511:U2
+1848	190:Muse	445:Bon Iver	65:Coldplay
+1852	377:Linkin Park	493:Lostprophets	72:Depeche Mode
+1856	868:The Doors	1412:Led Zeppelin	163:Pink Floyd
+1857	333:Avril Lavigne	488:Three Days Grace	493:Lostprophets
+1860	227:The Beatles	1151:Editors	56:Daft Punk
+1861	1257:Overkill	954:Kreator	1274:Sepultura
+1862	89:Lady Gaga	333:Avril Lavigne	300:Katy Perry
+1863	1047:McFly	1188:Asking Alexandria	816:A Day to Remember
+1864	1772:Norah Jones	65:Coldplay	157:Michael Jackson
+1866	333:Avril Lavigne
+1867	851:Manic Street Preachers	173:Placebo	190:Muse
+1872	295:Beyoncé	289:Britney Spears	89:Lady Gaga
+1873	227:The Beatles	190:Muse	234:Nirvana
+1874	418:Sigur Rós
+1875	56:Daft Punk	88:Gorillaz
+1879	511:U2
+1880	1613:Jay-Z
+1883	227:The Beatles	1216:Mastodon
+1885	744:Autechre	756:Arovane	753:Secede
+1887	229:The Killers	421:Móveis Coloniais de Acaju	228:Kings of Leon
+1890	190:Muse	230:Green Day	228:Kings of Leon
+1892	288:Rihanna	300:Katy Perry	466:Ke$ha
+1894	972:t.A.T.u.
+1896	190:Muse
+1899	707:Metallica	841:Slayer	2379:Trivium
+1900	56:Daft Punk	190:Muse	65:Coldplay
+1904	71:Dido
+1908	614:Pearl Jam	159:The Cure	203:Blur
+1910	289:Britney Spears	295:Beyoncé	292:Christina Aguilera
+1911	72:Depeche Mode	190:Muse	163:Pink Floyd
+1912	331:Kanye West
+1914	377:Linkin Park	493:Lostprophets	72:Depeche Mode
+1917	378:Evanescence	2983:Detonautas Roque Clube	966:Nickelback
+1921	289:Britney Spears	89:Lady Gaga	302:P!nk
+1922	726:Apocalyptica	707:Metallica	72:Depeche Mode
+1923	227:The Beatles
+1924	55:Kylie Minogue	67:Madonna
+1926	533:Oasis	173:Placebo
+1929	288:Rihanna	289:Britney Spears	292:Christina Aguilera
+1930	816:A Day to Remember	2959:Eyes Set to Kill	377:Linkin Park
+1931	69:Sade
+1933	72:Depeche Mode	227:The Beatles	159:The Cure
+1934	289:Britney Spears	89:Lady Gaga	498:Paramore
+1935	190:Muse	1048:The Kooks	289:Britney Spears
+1936	266:Erykah Badu
+1939	163:Pink Floyd	706:AC/DC	982:Foo Fighters
+1942	152:Porcupine Tree	188:Opeth	183:Jamiroquai
+1944	504:HIM	512:Deftones
+1946	1139:Maurice Ravel
+1948	207:Arctic Monkeys	227:The Beatles	229:The Killers
+1949	609:Nick Drake
+1950	1112:Frédéric Chopin	1098:Björk
+1951	289:Britney Spears	288:Rihanna	291:Kelly Clarkson
+1952	163:Pink Floyd	152:Porcupine Tree	190:Muse
+1955	706:AC/DC	707:Metallica	163:Pink Floyd
+1956	328:David Guetta
+1957	378:Evanescence	72:Depeche Mode	230:Green Day
+1958	488:Three Days Grace
+1959	56:Daft Punk	227:The Beatles	757:Crystal Castles
+1961	518:Within Temptation
+1962	599:David Bowie	227:The Beatles	511:U2
+1963	190:Muse	227:The Beatles	230:Green Day
+1964	709:The White Stripes
+1965	418:Sigur Rós	190:Muse	234:Nirvana
+1968	152:Porcupine Tree	964:The Mars Volta	183:Jamiroquai
+1971	225:Interpol
+1972	599:David Bowie	227:The Beatles	511:U2
+1973	227:The Beatles	875:Bauhaus	599:David Bowie
+1976	429:The Smiths	154:Radiohead	159:The Cure
+1977	89:Lady Gaga
+1979	161:Enrique Iglesias
+1981	56:Daft Punk
+1983	65:Coldplay
+1984	679:Glee Cast	461:Miley Cyrus	344:Taylor Swift
+1986	190:Muse	230:Green Day	228:Kings of Leon
+1987	966:Nickelback
+1988	726:Apocalyptica	67:Madonna
+1989	65:Coldplay
+1990	412:blink-182
+1991	377:Linkin Park	493:Lostprophets	230:Green Day
+1992	1119:Faith No More
+1993	504:HIM
+1994	72:Depeche Mode	163:Pink Floyd	174:Infected Mushroom
+1995	230:Green Day	56:Daft Punk
+1996	89:Lady Gaga	292:Christina Aguilera	55:Kylie Minogue
+1997	154:Radiohead	159:The Cure
+2000	472:3 Doors Down	377:Linkin Park	173:Placebo
+2001	966:Nickelback	328:David Guetta
+2003	227:The Beatles	1098:Björk
+2004	227:The Beatles	511:U2	230:Green Day
+2006	1099:The Prodigy
+2007	377:Linkin Park	378:Evanescence
+2008	614:Pearl Jam
+2009	289:Britney Spears	461:Miley Cyrus	288:Rihanna
+2010	72:Depeche Mode
+2011	533:Oasis	378:Evanescence
+2013	288:Rihanna	289:Britney Spears	89:Lady Gaga
+2014	300:Katy Perry	89:Lady Gaga	466:Ke$ha
+2015	190:Muse	56:Daft Punk	377:Linkin Park
+2016	88:Gorillaz
+2017	1116:Incubus	1119:Faith No More
+2018	641:Laura Pausini	644:Inna
+2019	982:Foo Fighters
+2020	173:Placebo
+2022	959:Queen
+2023	220:Red Hot Chili Peppers	511:U2
+2024	333:Avril Lavigne	288:Rihanna	300:Katy Perry
+2027	534:No Doubt
+2029	511:U2
+2030	227:The Beatles	706:AC/DC	707:Metallica
+2031	163:Pink Floyd	1990:Fever Ray
+2033	875:Bauhaus	1098:Björk
+2034	455:Backstreet Boys	289:Britney Spears	55:Kylie Minogue
+2035	706:AC/DC	707:Metallica	227:The Beatles
+2036	65:Coldplay	56:Daft Punk	229:The Killers
+2037	868:The Doors	1412:Led Zeppelin	234:Nirvana
+2038	416:The National	225:Interpol	1151:Editors
+2039	418:Sigur Rós
+2041	289:Britney Spears	55:Kylie Minogue	476:M. Pokora
+2043	1249:Guns N' Roses	928:Helloween	498:Paramore
+2045	157:Michael Jackson
+2046	65:Coldplay	154:Radiohead	182:Keane
+2047	1122:The Police
+2048	203:Blur	190:Muse
+2053	288:Rihanna	289:Britney Spears	292:Christina Aguilera
+2054	412:blink-182	816:A Day to Remember	220:Red Hot Chili Peppers
+2055	288:Rihanna	289:Britney Spears	291:Kelly Clarkson
+2056	966:Nickelback	689:Florence + the Machine	962:The Cardigans
+2057	289:Britney Spears	55:Kylie Minogue	67:Madonna
+2058	72:Depeche Mode	1001:Pet Shop Boys	159:The Cure
+2059	72:Depeche Mode	1001:Pet Shop Boys	59:New Order
+2060	962:The Cardigans	152:Porcupine Tree	861:Killing Joke
+2061	56:Daft Punk	230:Green Day	1398:Justice
+2062	704:The Pretty Reckless	234:Nirvana
+2064	288:Rihanna	289:Britney Spears	55:Kylie Minogue
+2068	72:Depeche Mode	190:Muse	163:Pink Floyd
+2069	288:Rihanna	300:Katy Perry	295:Beyoncé
+2071	152:Porcupine Tree	172:Garbage	183:Jamiroquai
+2075	1139:Maurice Ravel
+2078	56:Daft Punk
+2079	56:Daft Punk	227:The Beatles
+2080	154:Radiohead	190:Muse	173:Placebo
+2081	89:Lady Gaga	329:Justin Timberlake	475:Eminem
+2090	198:System of a Down	225:Interpol	173:Placebo
+2091	289:Britney Spears
+2092	89:Lady Gaga	466:Ke$ha	288:Rihanna
+2093	227:The Beatles	192:Elton John
+2095	56:Daft Punk	183:Jamiroquai
+2097	377:Linkin Park	378:Evanescence	333:Avril Lavigne
